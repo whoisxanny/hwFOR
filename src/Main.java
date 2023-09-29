@@ -61,7 +61,5 @@ public class Main {
             int result = two * i;
             System.out.println(two + " * " +  i + " = " + result );
         }
-
-
     }
 }
